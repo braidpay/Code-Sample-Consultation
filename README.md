@@ -1,6 +1,6 @@
 # A sample repo to create a Consultation selling website using Next.js, Shadcn, Tailwind, and BraidPay.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/yourusername/your-repo-name)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/braidpay/Code-Sample-Consultation)
 
 A sample repo to create a Consultation selling website using Next.js, Shadcn, Tailwind, and BraidPay. This template provides a ready-to-use consultation booking platform with integrated payment processing through BraidPay.
 
@@ -26,8 +26,8 @@ Before you begin, you'll need:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/braidpay/Code-Sample-Consultation
+cd Code-Sample-Consultation
 ```
 
 2. Install dependencies:
